@@ -1,0 +1,34 @@
+.cardCon{
+    height: 50vh;
+    width: 20vw;
+    background-color: aqua;
+    margin-top: 1cm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2vw;
+}
+
+.imgo{
+    width: 80%;
+    height: 70%;
+}
+img{
+    background-color: black;
+    width: 80%;
+    height: 70%;
+}
+
+.title{
+    background-color: brown;
+    width: 80%;
+}
+.desc{
+    overflow: scroll;
+    background-color: rgb(221, 84, 84);
+    width: 80%;
+    height:20%;
+}
+.stats{
+    background-color: ;
+}

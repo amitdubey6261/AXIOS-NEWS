@@ -1,0 +1,5 @@
+.main{
+    background-color: rgba(137, 43, 226, 0.397);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
